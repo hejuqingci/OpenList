@@ -1,7 +1,7 @@
 package szczk
 
 import (
-	"github.com/OpenListTeam/OpenList/v4/internal/driver"
+	"github.com/hejuqingci/OpenList/internal/driver"
 	"github.com/OpenListTeam/OpenList/v4/internal/model"
 )
 
