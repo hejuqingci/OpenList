@@ -62,6 +62,7 @@ import (
 	_ "github.com/OpenListTeam/OpenList/v4/drivers/sftp"
 	_ "github.com/OpenListTeam/OpenList/v4/drivers/smb"
 	_ "github.com/OpenListTeam/OpenList/v4/drivers/strm"
+	_ "github.com/hejuqingci/OpenListTeam/OpenList/v4/drivers/szczk"
 	_ "github.com/OpenListTeam/OpenList/v4/drivers/teambition"
 	_ "github.com/OpenListTeam/OpenList/v4/drivers/teldrive"
 	_ "github.com/OpenListTeam/OpenList/v4/drivers/terabox"
