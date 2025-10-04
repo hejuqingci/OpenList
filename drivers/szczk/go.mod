@@ -1,4 +1,4 @@
-module github.com/OpenListTeam/OpenList/v4/drivers/szczk
+module github.com/hejuqingci/OpenList/drivers/szczk
 
 go 1.24.7
 
